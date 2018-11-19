@@ -1,0 +1,50 @@
+初始化本地仓库
+
+　　在项目目录中执行
+
+　　git init
+提交项目
+
+　　1）或在命令行上创建新的存储库
+
+　　echo "# mydemo" >> README.md
+
+　　git add README.md
+
+　　git commit -m "first commit"
+
+　　git remote add origin git@github.com:sophia1223/mydemo.git
+
+　　git push -u origin master
+
+　　2）或从命令行推送现有存储库
+
+　　git remote add origin 提交项目
+
+　　1）或在命令行上创建新的存储库
+
+　　echo "# mydemo" >> README.md
+
+　　git add README.md
+
+　　git commit -m "first commit"
+
+　　git remote add origin git@github.com:sophia1223/mydemo.git
+
+　　git push -u origin master
+
+　　2）或从命令行推送现有存储库
+
+　　git remote add origin git@github.com:sophia1223/mydemo.git
+
+　　git push -u origin master
+
+　　3）或从另一个存储库导入代码
+
+　　
+
+　　git push -u origin master
+
+　　3）或从另一个存储库导入代码
+
+　　
