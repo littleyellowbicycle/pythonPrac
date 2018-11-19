@@ -17,3 +17,7 @@
 　　git remote add origin git@github.com:sophia1223/mydemo.git
 
 　　git push -u origin master
+    
+    3)提交修改
+    git commit -m "xxxx"
+    git push
