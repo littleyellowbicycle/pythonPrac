@@ -1,4 +1,4 @@
-I creat this repositories to prac pyhon
+I creat this repositories to prac python
 
 the first thing is to do practice with zhe book
 the other thing is to make ls.py
